@@ -1,3 +1,6 @@
-.body {
+body {
 	border: 1px;
+}
+div {
+	border: 1px #000;
 }
